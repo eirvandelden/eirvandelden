@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi I'm Etienne🐿️ �
 
+I'm a dad, Ruby on Rails Engineer and D&D 4th Edition Forever DM
+�
 <!--
 **eirvandelden/eirvandelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
